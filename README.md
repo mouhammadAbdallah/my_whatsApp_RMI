@@ -17,3 +17,7 @@ using RMI, a client and server for chatting:
 * MyWhatsappClient
 * MyWhatsappServer
 
+for Arabic video description and project specifications: 
+
+https://drive.google.com/drive/folders/1OJZYABU3AYCziW_dJlfoDq-iSMq9gTbW?usp=sharing
+
