@@ -1,6 +1,6 @@
 # My WhatsApp project
 
-using RMI, a client and server for chatting:
+using Java RMI, a client and a server for chatting:
 
 ## what can clients do:
 
